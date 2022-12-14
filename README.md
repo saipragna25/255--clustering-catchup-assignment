@@ -18,6 +18,7 @@ c) Gaussian mixture models clustering (not from scratch)
 
 d) DB Scan clustering (not from scratch) using pycaret library 
 
+colab link: https://colab.research.google.com/drive/1QEJmuK07-KtrntFkDyV6CyVmRY8pKCYj?authuser=3
 
 
 
